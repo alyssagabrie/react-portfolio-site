@@ -59,7 +59,7 @@ const Banner = () => {
                 whileInView={'show'} 
                 viewport={{once: false, amount: 0.7}}
               className= 'mb-8 max-w-lg mx-auto lg:mx-0'
-              >Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              >Welcome to my Web Developer portfolio! Here you will find a few of my projects, Github & LinkedIn profile, downloadable resume, and a contact form for inquiries.
               </motion.p>
               <motion.div 
                 variants={fadeIn('up', 0.6)}  

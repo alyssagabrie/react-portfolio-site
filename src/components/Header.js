@@ -14,7 +14,9 @@ const Header = () => {
         
         {/* <img src={Logo} alt='' /> */}
       </a>
-      <button className= 'btn btn-sm'> My Resume</button>
+      <a href='AlyssaHerreraResume.pdf'
+      download='AlyssaHerreraResume.pdf'>
+      <button className= 'btn btn-sm'> My Resume</button></a>
     </div>
 
     

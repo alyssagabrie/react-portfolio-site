@@ -36,8 +36,8 @@ const About = () => {
            viewport={{once: false, amount: 0.3}}
            className='flex-1'>
             <h2 className= 'h2 text-accent'> About me. </h2>
-            <h3 className='h3 mb-4'>I'm a Jr. Full-Stack Developer</h3>
-            <p className= 'mb-4'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+            <h3 className='h3 mb-4'>I'm a Jr. Web Developer</h3>
+            <p className= 'mb-4'> I understand the importance of creating a design that is unique and easily accessible for all users. Web Development allows me to showcase my design and coding skills while using the lastest practices of UX/UI practices. Besides my passion for coding, I enjoy traveling, spending time with family and friends, and watching movies or eating really spicy foods! </p>
 
         
           <div className='flex gap-x-8 items-center'>

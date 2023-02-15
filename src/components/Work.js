@@ -26,11 +26,12 @@ const Work = () => {
             '>
               {/* text */}
               <div>
-                <h2 className='h2 leading-tight text-accent'>My Latest <br/>
-                Work. 
+                <h2 className='h2 leading-tight text-accent'>My <br/>
+               Projects
                 </h2>
-                <p className='max-w-sm mb-16'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                <button className='btn btn-sm'> View all projects</button>
+                <p className='max-w-sm mb-16'>My latest projects include Bootstrap, React JS, and React Native. Check out my github repository to learn more.</p>
+                <a href = 'https://github.com/alyssagabrie'>
+                <button className='btn btn-sm'> View Github Repos</button> </a>
               </div>
               {/* Image 1 */}
               <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl'>

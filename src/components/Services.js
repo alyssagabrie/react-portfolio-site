@@ -28,7 +28,7 @@ const services = [
 },
 {
   name: 'Web Development', 
-  description: "I am familiar and have experience with the following langauges: HTML, CSS, JavaScript, Bootstrap, React JS, React Native, Redux, Tailwind CSS"
+  description: "I am familiar and have experience with the following langauges: HTML, CSS, JavaScript, Bootstrap, React JS, React Native, Redux, Tailwind CSS, Firebase, Google Cloud"
    
     
    
